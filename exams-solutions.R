@@ -680,5 +680,5 @@ primanja pod        48         96
 data:  pod
 X-squared = 11.277, df = 1, p-value = 0.0007846
 
-> #p-val 0.0007< 0.05, zanci se zavisni
+> #p-val 0.0007< 0.05, znaci se zavisni
 > 
