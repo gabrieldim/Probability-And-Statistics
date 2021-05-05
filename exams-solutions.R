@@ -1,6 +1,9 @@
 
-> #2020, 1grupa
-> #1 zad
+> #Ispit od 2020 g.
+> #1 grupa
+> #Prva zadacha
+> #Reshenie:
+>
 > #X~Pois(10)
 > X<-rpois(100,10)
 > X
